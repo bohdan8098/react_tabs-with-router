@@ -36,3 +36,4 @@ export const TabsPage: React.FC<Props> = ({ tabs }) => {
     </>
   );
 };
+
